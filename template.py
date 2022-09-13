@@ -17,16 +17,16 @@ list_of_files = [
     f"src/{package_name}/components/_init__.py",
     f"src/{package_name}/constants/_init__.py",
     "configs/config.yaml",
-    "dvc.yaml",
+    "dvc.yaml", #data versioning
     "params.yaml",
-    "init_setup.sh",
+    "init_setup.sh", #creates enviroments
     "requirements.txt",
+    "requirements_dev.txt",
     "setup.py",
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
     "research/trials.ipynb"
-
 
 
 ]
