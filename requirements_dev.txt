@@ -11,7 +11,7 @@ tqdm
 ensure==1.0.2
 joblib
 
--e .
+-e .  # local package src
 
 
 #Dev requirements
